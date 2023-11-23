@@ -1,4 +1,9 @@
-### Student of Systems Analysis and Development at PUCRS 🤠
+### <h1 align="center">Hi 🤠</h1>
+- Student of Systems Analysis and Development at PUCRS ☝🤓
+- Retro gaming and modding enthusiast🎮😩
+- Classically trained violinist and musician 😎🎻
+
+Contact me at
 
 <!--
 **tomilho1/tomilho1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
