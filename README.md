@@ -1,6 +1,6 @@
 ### <h1 align="center">Hi 🤠</h1>
 - Student of Systems Analysis and Development at PUCRS ☝🤓
-- Retro gaming and modding enthusiast🎮😩
+- Retro gaming and modding enthusiast 🎮😩
 - Classically trained violinist and musician 😎🎻
 
 Contact me at
