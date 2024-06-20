@@ -1,7 +1,8 @@
 ### <h1 align="center">Hi 🤠</h1>
-- Student of Systems Analysis and Development at PUCRS ☝🤓
-- Retro gaming and modding enthusiast 🎮😩
-- Classically trained violinist and musician 😎🎻
+- ☝🤓 Student of Systems Analysis and Development at PUCRS
+- 🎮😩 Retro gaming and modding enthusiast
+- 😎🎻 Classically trained violinist and musician
+- 👾🎶 Listen to my [video game music stuff](https://www.youtube.com/@tomilhomusic)
 <!--
 **tomilho1/tomilho1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
